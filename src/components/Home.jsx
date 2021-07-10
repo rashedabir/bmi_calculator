@@ -74,7 +74,7 @@ function Home() {
     setValue(index);
   };
   return (
-    <Container>
+    <Container className="home">
       <Typography className={classes.title} variant="h4">
         <Box textAlign="center" m={1}>
           Calculate Your Body Mass Index

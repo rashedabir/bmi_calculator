@@ -5,3 +5,18 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
+
+.home{
+  height: 85vh;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+footer{
+  background-color: #f50057;
+  color: white;
+  text-align: center;
+}
